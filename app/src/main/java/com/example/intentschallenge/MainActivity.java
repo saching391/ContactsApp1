@@ -37,19 +37,6 @@ public class MainActivity extends AppCompatActivity {
         ivWeb = findViewById(R.id.ivWeb);
         ivIcon = findViewById(R.id.ivIcon);
 
-//        if (ContactInfo.icon.contentEquals("sad"))
-//        {
-//            ivIcon = findViewById(R.id.ivSad);
-//        }
-//        else if (ContactInfo.icon.contentEquals("smiley"))
-//        {
-//            ivIcon = findViewById(R.id.ivSmiley);
-//        }
-//        else
-//        {
-//            ivIcon = findViewById(R.id.ivNeutral);
-//        }
-
 
 
 
